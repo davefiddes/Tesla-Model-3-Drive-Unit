@@ -1,0 +1,13 @@
+{
+  "name": "Tesla Oil Pump LIN",
+  "apiVersion": "1.0.0",
+  "author": "David J. Fiddes",
+  "version": "0.1.0",
+  "description": "",
+  "extensions": {
+    "Tesla Oil Pump LIN": {
+      "type": "HighLevelAnalyzer",
+      "entryPoint": "TeslaOilPump.oil_pump_analyzer"
+    }
+  }
+}
